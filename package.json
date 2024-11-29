@@ -1,0 +1,24 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "basic notes app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shishirm18/NotesApp.git"
+  },
+  "author": "Shishir Manjunatha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shishirm18/NotesApp/issues"
+  },
+  "homepage": "https://github.com/shishirm18/NotesApp#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "uuid": "^11.0.3"
+  }
+}
